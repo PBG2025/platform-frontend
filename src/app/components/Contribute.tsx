@@ -7,7 +7,7 @@ export default function Contribute() {
         Help build the open-source petroleum intelligence platform of the future.
       </p>
       <a
-        href="https://github.com/GBP2025?tab=repositories"
+        href="https://github.com/PBG2025?tab=repositories"
         className="inline-block bg-white text-black px-6 py-3 rounded-lg font-semibold hover:bg-gray-300 transition"
         target="_blank"
         rel="noopener noreferrer"
