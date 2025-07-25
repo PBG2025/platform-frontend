@@ -11,7 +11,7 @@ export default function Hero() {
         Join us to build the future of energy intelligence.
       </p>
       <a
-        href="https://github.com/GBP2025"
+        href="https://github.com/GBP2025?tab=repositories"
         className="bg-white text-black px-6 py-3 rounded-lg font-semibold hover:bg-gray-200 transition"
         target="_blank"
         rel="noopener noreferrer"
