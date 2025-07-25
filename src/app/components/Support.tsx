@@ -7,7 +7,7 @@ const Support = () => {
           PetroBrain Global is an open-source, community-built platform. We rely on the support of sponsors and donors to grow.
         </p>
         <a
-          href="https://github.com/sponsors/GBP2025"
+          href="https://github.com/sponsors/PBG2025"
           className="inline-block bg-black text-white px-6 py-3 rounded-lg font-semibold hover:bg-gray-800 transition"
           target="_blank"
           rel="noopener noreferrer"
