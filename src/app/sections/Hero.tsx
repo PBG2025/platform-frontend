@@ -22,10 +22,10 @@ export default function Hero() {
 
       {/* Description */}
       <p className="max-w-xl text-center mb-6 text-lg">
-        PetroBrain Global (PBG) is a global, open-source AI platform for the entire oil and gas value chain —
-        from exploration, geology, reservoir simulation, and drilling to production optimization, refining,
-        and downstream intelligence. Join engineers, researchers, and developers worldwide in reshaping the
-        future of energy through transparent, intelligent collaboration.
+        PetroBrain Global (PBG) is the world’s first open-source, AI-powered platform for the entire oil and gas value chain — from exploration, geology, reservoir simulation, drilling, and production optimization to refining, petrochemicals, transportation, and energy intelligence.
+
+        We bring together global engineers, researchers, and developers to reshape the future of energy through transparent, intelligent collaboration.
+
       </p>
 
       {/* GitHub Button */}

@@ -1,7 +1,7 @@
 import Hero from './sections/Hero';
 import About from './components/About';
 import Features from './components/Features';
-import Contribute from './components/Contribute';
+import Join from './components/Join';
 import Support from './components/Support';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -12,7 +12,7 @@ export default function Home() {
       <Hero />
       <About />
       <Features />
-      <Contribute />
+      <Join />
       <Support />
       <Contact />
       <Footer />
