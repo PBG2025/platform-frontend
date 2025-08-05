@@ -19,11 +19,11 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-r from-indigo-900 via-purple-900 to-blue-900 text-white">
       <Hero />
+      <About /> 
       <Vision />
       <Problem />
       <Solution />
       <Features />
-      <About />
       <Join />
       <Support />
       <Traction />
